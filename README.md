@@ -29,7 +29,7 @@ Hotels need to understand booking behavior to reduce cancellations, improve reve
 
 Hotel Booking Demand Dataset (Kaggle)
 
-The dataset contains reservation information from City Hotels and Resort Hotels.
+The dataset contains reservation information from City Hotels and Resort Hotels, including booking status, arrival dates, customer type, market segment, distribution channel, pricing information, and cancellation details.
 
 ---
 
@@ -58,11 +58,12 @@ The dataset contains reservation information from City Hotels and Resort Hotels.
 
 ## Key Insights
 
-- Cancellation behavior affects hotel revenue planning.
-- Longer lead times are associated with higher cancellation risk.
-- Online Travel Agencies are the main booking source.
-- City Hotels receive more bookings than Resort Hotels.
-- Booking demand changes by month.
+- Cancellation behavior has a significant impact on hotel revenue planning.
+- Reservations with longer lead times showed a higher likelihood of cancellation.
+- Online Travel Agencies (Online TA) were the largest booking source.
+- City Hotels received more reservations than Resort Hotels.
+- Most customers were transient guests.
+- Booking demand varied throughout the year, showing seasonal patterns.
 
 ---
 
@@ -101,6 +102,7 @@ The dataset contains reservation information from City Hotels and Resort Hotels.
 ### Revenue Impact of Cancellations
 
 ![Revenue Impact Analysis](revenue_impact_analysis.png)
+
 ## Business Recommendations
 
 - Monitor high-risk reservations.
@@ -108,6 +110,14 @@ The dataset contains reservation information from City Hotels and Resort Hotels.
 - Improve loyalty programs.
 - Encourage direct bookings.
 - Use seasonal pricing strategies.
+
+---
+
+## Conclusion
+
+This project demonstrates how Python and exploratory data analysis can be used to transform hotel booking data into meaningful business insights.
+
+The analysis helps identify cancellation risks, understand customer behavior, and support better decisions in revenue management and hotel operations.
 
 ---
 
