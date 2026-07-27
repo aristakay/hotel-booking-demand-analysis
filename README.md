@@ -113,4 +113,4 @@ The dataset contains reservation information from City Hotels and Resort Hotels.
 
 ## Author
 
-Arista Kayirangwa
+Arista Kayirangwa Aimee
