@@ -70,37 +70,37 @@ The dataset contains reservation information from City Hotels and Resort Hotels.
 
 ### Cancellation Analysis
 
-![Cancellation Analysis](images/cancellation_analysis.png)
+![Cancellation Analysis](cancellation_analysis.png)
 
 ---
 
 ### Hotel Type Performance
 
-![Hotel Type Analysis](images/hotel_type_analysis.png)
+![Hotel Type Analysis](hotel_type_analysis.png)
 
 ---
 
 ### Monthly Booking Trends
 
-![Monthly Booking Trends](images/monthly_booking_trends.png)
+![Monthly Booking Trends](monthly_booking_trends.png)
 
 ---
 
 ### Average Daily Rate (ADR)
 
-![ADR Analysis](images/adr_analysis.png)
+![ADR Analysis](adr_analysis.png)
 
 ---
 
 ### Market Segment Analysis
 
-![Market Segment Analysis](images/market_segment_analysis.png)
+![Market Segment Analysis](market_segment_analysis.png)
 
 ---
 
 ### Revenue Impact of Cancellations
 
-![Revenue Impact Analysis](images/revenue_impact_analysis.png)
+![Revenue Impact Analysis](revenue_impact_analysis.png)
 ## Business Recommendations
 
 - Monitor high-risk reservations.
