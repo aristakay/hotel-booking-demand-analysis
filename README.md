@@ -60,7 +60,7 @@ The dataset contains reservation information from City Hotels and Resort Hotels,
 
 - Cancellation behavior has a significant impact on hotel revenue planning.
 - Reservations with longer lead times showed a higher likelihood of cancellation.
-- Online Travel Agencies (Online TA) were the largest booking source.
+- Online Travel Agencies were the largest booking source.
 - City Hotels received more reservations than Resort Hotels.
 - Most customers were transient guests.
 - Booking demand varied throughout the year, showing seasonal patterns.
